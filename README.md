@@ -10,4 +10,4 @@
 
 ## 결과
 - 후기 : https://blog.naver.com/gamanando777/222863287123
-최종 116위
+- 최종 116위
