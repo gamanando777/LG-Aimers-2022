@@ -1,7 +1,6 @@
 # LG-Aimers-2022
 
 - LG Aimers 교육 이수.
-- 처음으로 참여한 경진대회.
 - https://dacon.io/competitions/official/235927/overview/description
 
 ## 목표
